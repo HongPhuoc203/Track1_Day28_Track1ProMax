@@ -86,4 +86,4 @@ Các chỉ số được ưu tiên từ tầng 3 đến tầng 5; số login và
 - [x] Có roadmap 30–60–90 và cổng quyết định.
 - [x] Dashboard v1 và v2 có product metric, workflow metric, baseline, target, source, owner, hành động khi xấu.
 - [x] Có ít nhất 2 thay đổi sau phản biện và quyết định sửa/tiếp tục pilot.
-- [ ] Khi nộp thật: đổi tên repo thành `Day28_Track01_Track1_ProMax`, đặt branch `main`, bật Public và dán cùng một link vào LMS.
+- [ ] Trên GitHub: đổi tên repo thành `Day28_Track01_Track1_ProMax` (đang là `Track1_Day28_Track1ProMax`, sai thứ tự theo mẫu `Day28_Track01_<Ten_Nhom>`), bật Public, giữ branch `main`, rồi dán cùng một link vào LMS.
